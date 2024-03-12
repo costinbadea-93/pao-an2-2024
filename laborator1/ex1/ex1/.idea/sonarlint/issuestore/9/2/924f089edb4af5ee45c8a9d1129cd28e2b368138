@@ -1,0 +1,42 @@
+
+7
+java:S1220""Move this file to a named package.8œÓéœã1
+Z
+java:S1854P"8Remove this useless assignment to local variable "arr1".(“¯Ê·ûÿÿÿÿ8£Óéœã1
+X
+java:S1854"6Remove this useless assignment to local variable "n4".(Ðß×¢üÿÿÿÿ8£Óéœã1
+S
+java:S1854"6Remove this useless assignment to local variable "n3".(ßÉ×„8£Óéœã1
+S
+java:S1854"6Remove this useless assignment to local variable "n2".(è²÷­8£Óéœã1
+S
+java:S1854"6Remove this useless assignment to local variable "n1".(€ä¬€8£Óéœã1
+L	java:S106"+Replace this use of System.out by a logger.(–ËÊ¼úÿÿÿÿ8£Óéœã1
+D
+java:S1481"'Remove this unused "n1" local variable.(€ä¬€8¤Óéœã1
+D
+java:S1481"'Remove this unused "n2" local variable.(è²÷­8¤Óéœã1
+D
+java:S1481"'Remove this unused "n3" local variable.(ßÉ×„8¤Óéœã1
+I
+java:S1481"'Remove this unused "n4" local variable.(Ðß×¢üÿÿÿÿ8¤Óéœã1
+X	java:S125"<This block of commented-out lines of code should be removed.(ûëÈÄ8¤Óéœã1
+W	java:S125!"<This block of commented-out lines of code should be removed.(É¨ƒ@8¤Óéœã1
+]	java:S125("<This block of commented-out lines of code should be removed.(Õ€Ì·ÿÿÿÿÿ8¤Óéœã1
+X	java:S125,"<This block of commented-out lines of code should be removed.(ð×»ó8¤Óéœã1
+]	java:S1259"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ8¤Óéœã1
+X	java:S125G"<This block of commented-out lines of code should be removed.(”®­è8¤Óéœã1
+]	java:S125O"<This block of commented-out lines of code should be removed.(«˜Ö“ûÿÿÿÿ8¤Óéœã1
+K
+java:S1481P")Remove this unused "arr1" local variable.(“¯Ê·ûÿÿÿÿ8¤Óéœã1
+G	java:S106Y"+Replace this use of System.out by a logger.(ïÍØƒ8¥Óéœã1
+u
+java:S3012j"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(´¯²U8¥Óéœã1
+=
+java:S1659q" Declare "ap" on a separate line.(ŠÈËÊ8¦Óéœã1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ìÇëœã1
+Q
+java:S1144g"/Remove this unused private "addElement" method.(Ç—«…øÿÿÿÿ8¦Óéœã1
+O
+java:S1144p"2Remove this unused private "removeElement" method.(ÙÇÙ…8¦Óéœã1
