@@ -15,11 +15,11 @@ public class Main {
          */
 
 
-        int n1 = 5;
-        int n2 = 10;
-
-        Integer n3 = 5;
-        Integer n4 = 10;
+//        int n1 = 5;
+//        int n2 = 10;
+//
+//        Integer n3 = 5;
+//        Integer n4 = 10;
 //        System.out.println(n3.compareTo(n4));
 
         //static -> o singura instanta pentru toate
@@ -77,16 +77,16 @@ public class Main {
 //        arr = removeElement( arr,2);
 
 //        System.out.println(Arrays.toString(arr));
-        int[] arr1 = {1, 6, 3,4,7};
-
-        Book [] arr2 = {
-          new Book("B5", "A5"),
-          new Book("B4", "A4"),
-          new Book("B6", "A6"),
-        };
-        Comparator<Book> bookComparator = (b1, b2) -> b1.getName().compareTo(b2.getName());
-        Arrays.sort(arr2, bookComparator);
-        System.out.println(Arrays.toString(arr2));
+//        int[] arr1 = {1, 6, 3,4,7};
+//
+//        Book [] arr2 = {
+//          new Book("B5", "A5"),
+//          new Book("B4", "A4"),
+//          new Book("B6", "A6"),
+//        };
+//        Comparator<Book> bookComparator = (b1, b2) -> b1.getName().compareTo(b2.getName());
+//        Arrays.sort(arr2, bookComparator);
+//        System.out.println(Arrays.toString(arr2));
 
         /**
          * Car -> culoare, marca, pret
@@ -98,6 +98,37 @@ public class Main {
          *  2. -> list cars ->
          *  3. -> Exit program
          */
+
+        Car[] cars = new Car[0];
+        Scanner sc = new Scanner(System.in);
+        int opt = 0;
+
+        while(opt != 3)
+        {
+            opt = sc.nextInt();
+            switch(opt)
+            {
+                case 1:
+                    cars = addCar(cars, new Car(sc.next(), sc.next(), sc.nextInt()));
+                    break;
+                case 2:
+                    System.out.println(Arrays.toString(cars));
+                    break;
+
+            }
+        }
+    }
+
+    private static Car[] addCar(Car[] cars, Car car)
+    {
+        int i;
+        Car[] ncars = new Car[cars.length + 1];
+
+        for(i = 0;i < cars.length;++i)
+            ncars[i] = cars[i];
+        ncars[i] = car;
+
+        return ncars;
     }
 
     private static int [] addElement(int [] arr , int elem){

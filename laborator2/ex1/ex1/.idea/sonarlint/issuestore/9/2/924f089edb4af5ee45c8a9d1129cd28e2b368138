@@ -1,0 +1,14 @@
+
+7
+java:S1220""Move this file to a named package.8°¶¼å1
+W
+java:S1854#":Remove this useless assignment to local variable "animal".(åòÚ8²¶¼å1
+]	java:S125	"<This block of commented-out lines of code should be removed.(ğ»„–ùÿÿÿÿ8³¶¼å1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÅÛ½×ûÿÿÿÿ8³¶¼å1
+L	java:S106 "+Replace this use of System.out by a logger.(Ïø÷¿üÿÿÿÿ8òñ¶¼å1
+L	java:S106!"+Replace this use of System.out by a logger.(¨ô¢¨ıÿÿÿÿ8ĞÉ·¼å1
+H
+java:S1481#"+Remove this unused "animal" local variable.(åòÚ8´¶¼å1
+F	java:S106&"+Replace this use of System.out by a logger.(ş¤™18ñ€¼¼å1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Ø«½¼å1

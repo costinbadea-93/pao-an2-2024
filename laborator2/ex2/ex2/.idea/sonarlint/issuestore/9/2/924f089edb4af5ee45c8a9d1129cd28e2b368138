@@ -1,0 +1,8 @@
+
+7
+java:S1220""Move this file to a named package.8‰•½å1
+f
+java:S1854"DRemove this useless assignment to local variable "singletonService".(İØˆÊøÿÿÿÿ8Üˆ¥½å1
+G	java:S106"+Replace this use of System.out by a logger.(¿Ø‹¼8•½å1
+W
+java:S1481"5Remove this unused "singletonService" local variable.(İØˆÊøÿÿÿÿ8Şˆ¥½å1
