@@ -1,0 +1,25 @@
+
+g	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8αήέπ1
+g	java:S112M"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8αήέπ1
+h	java:S112€"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8αήέπ1
+~
+java:S1488["\Immediately return this expression instead of assigning it to the temporary variable "book".(“ε…ώÿÿÿÿ8βήέπ1
+f
+java:S20958"DUse try-with-resources or close this "Stream" in a "finally" clause.(Ò¨τ©ψÿÿÿÿ8νήέπ1
+J
+java:S2689R"-Do not use a FileOutputStream in append mode.(”Ξ‹Θ8νήέπ1
+t	java:S116"YRename this field "STRING_BUILDER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«•ήd8νήέπ1
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(μΥ­Κωÿÿÿÿ8οήέπ1
+G	java:S106!"+Replace this use of System.out by a logger.(Ά›Κ8ρήέπ1
+L	java:S106-"+Replace this use of System.out by a logger.(ρ—Έ½ϊÿÿÿÿ8ρήέπ1
+]
+java:S16129"@Replace this lambda with method reference 'System.out::println'.(Ò«µω8ςήέπ1
+G	java:S1069"+Replace this use of System.out by a logger.(Ò«µω8ςήέπ1
+H
+java:S1168m"+Return an empty collection instead of null.(¥Ήο8ψήέπ1
+I
+java:S1602r",Remove useless curly braces around statement(ώΩ‡ΰ8ψήέπ1
+W	java:S125~"<This block of commented-out lines of code should be removed.(†Θ@8ωήέπ1
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Π¥Ε8ϊήέπ1

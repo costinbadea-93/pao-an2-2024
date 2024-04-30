@@ -1,0 +1,18 @@
+
+7
+java:S1220""Move this file to a named package.8¥£İğ1
+a
+java:S1854"?Remove this useless assignment to local variable "fileService".(ê§ÌÛşÿÿÿÿ8‡¥£İğ1
+R
+java:S1481"0Remove this unused "fileService" local variable.(ê§ÌÛşÿÿÿÿ8ˆ¥£İğ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ùñ¤ûûÿÿÿÿ8‰¥£İğ1
+G	java:S106$"+Replace this use of System.out by a logger.(–•Ø8‰¥£İğ1
+G	java:S106%"+Replace this use of System.out by a logger.(†íî°8É«ªİğ1
+D
+java:S1128"'Remove this unused import 'model.Book'.(åšñ8ñˆöğ1
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8ñˆöğ1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8òˆöğ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8òˆöğ1

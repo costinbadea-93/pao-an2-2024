@@ -1,0 +1,16 @@
+
+7
+java:S1220""Move this file to a named package.8Şç‰ì1
+c
+java:S2259"AA "NullPointerException" could be thrown; "car" is nullable here.(ÕÙÌÂüÿÿÿÿ8áç‰ì1
+g
+java:S2095:"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Ëü£¥ıÿÿÿÿ8áç‰ì1
+]	java:S125	"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8ãç‰ì1
+L	java:S106"+Replace this use of System.out by a logger.(ÕÙÌÂüÿÿÿÿ8ãç‰ì1
+G	java:S106"+Replace this use of System.out by a logger.(›°ø÷8ãç‰ì1
+X	java:S125 "<This block of commented-out lines of code should be removed.(‹Éÿ¼8ãç‰ì1
+]	java:S125/"<This block of commented-out lines of code should be removed.(çè³üÿÿÿÿ8äç‰ì1
+]
+java:S1854:";Remove this useless assignment to local variable "scanner".(Ëü£¥ıÿÿÿÿ8äç‰ì1
+N
+java:S1481:",Remove this unused "scanner" local variable.(Ëü£¥ıÿÿÿÿ8åç‰ì1

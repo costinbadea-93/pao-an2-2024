@@ -1,0 +1,25 @@
+
+7
+java:S1220""Move this file to a named package.8öÆÔœì1
+V
+java:S1854m":Remove this useless assignment to local variable "result".(Ñı¶`8üÆÔœì1
+Z
+java:S1854"8Remove this useless assignment to local variable "list".(¤Êí…ıÿÿÿÿ8üÆÔœì1
+K
+java:S1481")Remove this unused "list" local variable.(¤Êí…ıÿÿÿÿ8ıÆÔœì1
+G	java:S106"+Replace this use of System.out by a logger.(ƒ°‡ê8ıÆÔœì1
+G	java:S106'"+Replace this use of System.out by a logger.(Ä’©ƒ8şÆÔœì1
+G	java:S106/"+Replace this use of System.out by a logger.(áôòÿ8şÆÔœì1
+X	java:S1252"<This block of commented-out lines of code should be removed.(©íù™8şÆÔœì1
+G	java:S106@"+Replace this use of System.out by a logger.(‡Ğ›­8€ÇÔœì1
+G	java:S106A"+Replace this use of System.out by a logger.(´üêµ8€ÇÔœì1
+_
+java:S1612T"=Replace this lambda with method reference 'Integer::valueOf'.(²‘îßøÿÿÿÿ8€ÇÔœì1
+G	java:S106Y"+Replace this use of System.out by a logger.(¶Óş°8€ÇÔœì1
+L	java:S106_"+Replace this use of System.out by a logger.(™×ÂÖùÿÿÿÿ8ÇÔœì1
+]	java:S125i"<This block of commented-out lines of code should be removed.(ì™ŒÆùÿÿÿÿ8ÇÔœì1
+G
+java:S1481m"+Remove this unused "result" local variable.(Ñı¶`8‚ÇÔœì1
+X	java:S125y"<This block of commented-out lines of code should be removed.(Úñß¶8‚ÇÔœì1
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8‚ÇÔœì1

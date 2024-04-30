@@ -3,6 +3,8 @@ import model.Catel;
 import model.Pisica;
 
 import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
 
 public class Main {
     public static void main(String[] args) {
@@ -25,17 +27,18 @@ public class Main {
 //        // ITALIA, ALIATI
 //        String s1= "ITALIA";
 //        s1.split("");
+//
+//        Catel c1 = new Catel("c1", "c1");
+//        Pisica p1 = new Pisica("p1", "21");
+//
+//        System.out.println(c1);
+//        System.out.println(p1);
+//
+//        Animal animal = new Catel("c1");
+//
+//        //instanceOf
+//        System.out.println(c1 instanceof Catel);
 
-        Catel c1 = new Catel("c1", "c1");
-        Pisica p1 = new Pisica("p1", "21");
-
-        System.out.println(c1);
-        System.out.println(p1);
-
-        Animal animal = new Catel("c1");
-
-        //instanceOf
-        System.out.println(c1 instanceof Catel);
 
     }
 }
