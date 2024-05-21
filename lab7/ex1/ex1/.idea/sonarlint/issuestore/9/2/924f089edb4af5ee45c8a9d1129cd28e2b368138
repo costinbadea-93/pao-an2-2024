@@ -1,0 +1,18 @@
+
+Â
+java:S1192"¤Define a constant instead of duplicating this literal "C:\\Users\\cbadea\\OneDrive - ENDAVA\\Desktop\\pao_an2024\\lab7\\ex1\\ex1\\src\\ex3examen\\data.txt" 3 times.(ö¶Î¬8ùêŞù1
+c
+java:S1192"FDefine a constant instead of duplicating this literal "salut" 3 times.(½¨ÌÚ8ùêŞù1
+
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(àÒşüøÿÿÿÿ8“ùêŞù1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ö¶Î¬8“ùêŞù1
+]
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ûãªU8“ùêŞù1
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÅÂå¼ıÿÿÿÿ8”ùêŞù1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ğº‰øÿÿÿÿ8”ùêŞù1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ö—ä8•ùêŞù1
+G	java:S106%"+Replace this use of System.out by a logger.(³‘ïŠ8•ùêŞù1
+M
+java:S1128"+Remove this unused import 'ex3examen.Task'.(ü©–Îøÿÿÿÿ8•ùêŞù1

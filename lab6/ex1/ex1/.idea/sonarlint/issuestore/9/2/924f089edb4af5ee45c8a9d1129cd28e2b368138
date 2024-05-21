@@ -1,0 +1,29 @@
+
+]
+java:S1854";Remove this useless assignment to local variable "player2".(¼ë«©ùÿÿÿÿ8‚ç°¾÷1
+]
+java:S1854";Remove this useless assignment to local variable "player1".(é¼®Íÿÿÿÿÿ8ƒç°¾÷1
+e
+java:S1854"HRemove this useless assignment to local variable "playerTeamRepository".(ŠÒÒ8ƒç°¾÷1
+V
+java:S1854"9Remove this useless assignment to local variable "team2".(Ò®ö¿8ƒç°¾÷1
+[
+java:S1854"9Remove this useless assignment to local variable "team1".(úşààùÿÿÿÿ8ƒç°¾÷1
+‹
+java:S1130	"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Á¯¦ş8ƒç°¾÷1
+L
+java:S1481"*Remove this unused "team1" local variable.(úşààùÿÿÿÿ8„ç°¾÷1
+G
+java:S1481"*Remove this unused "team2" local variable.(Ò®ö¿8„ç°¾÷1
+V
+java:S1481"9Remove this unused "playerTeamRepository" local variable.(ŠÒÒ8†ç°¾÷1
+]	java:S125"<This block of commented-out lines of code should be removed.(Äõ‘„úÿÿÿÿ8†ç°¾÷1
+N
+java:S1481",Remove this unused "player1" local variable.(é¼®Íÿÿÿÿÿ8†ç°¾÷1
+N
+java:S1481",Remove this unused "player2" local variable.(¼ë«©ùÿÿÿÿ8†ç°¾÷1
+]	java:S125"<This block of commented-out lines of code should be removed.(ë…œØüÿÿÿÿ8†ç°¾÷1
+X	java:S125"<This block of commented-out lines of code should be removed.(üÑ‰Ë8†ç°¾÷1
+X	java:S125"<This block of commented-out lines of code should be removed.(šñ™ñ8—Ï³¾÷1
+M
+java:S1128"+Remove this unused import 'java.util.UUID'.(ÀãÄ£úÿÿÿÿ8—Ï³¾÷1
